@@ -43,7 +43,6 @@ public class ShippingTest {
         }
 
 
-
         // This should print 345.0 if your code is correct
         System.out.println(totalCost);
     }
